@@ -1,6 +1,6 @@
 TOKEN ELCC
 
-Total Supply:		90,000,000 ECC
+Total Supply:		90,000,000 ELCC
 Contract:			0x12877a754e5802d774bf84ffb66e5e79d68fd34c
 Decimals:			18
 
